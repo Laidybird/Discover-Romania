@@ -7,7 +7,14 @@
 }
 body {
     font-family: Lato;
-    color: #777777;
+    color:aliceblue;
+    background-color: #49260A;
+}
+h2 {
+    font-family: Oswald;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color:aliceblue;
 }
 #logo {
     float: left;
@@ -41,9 +48,24 @@ body {
     border-bottom: 1px solid #777777;
 }
 #hero-image {
-    height: 600px;
-    width: 100$;
-    background: url("https://images.pexels.com/photos/163572/iron-gate-karparten-danube-gorge-abbey-163572.jpeg?auto=compress&cs=tinysrgb&w=1600") no-repeat center center;
-}
+    height: 700px;
+    max-width: 100%;
+    background: url("https://images.pexels.com/photos/163572/iron-gate-karparten-danube-gorge-abbey-163572.jpeg?auto=compress&cs=tinysrgb&w=1600")  no-repeat center center;
+    
 
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+#hero-outer{
+    height:600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.welcome {
+    text-align: center;
+    
+}
 
