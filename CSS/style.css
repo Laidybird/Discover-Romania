@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body {
+    font-family: Lato;
+    color: #777777;
+}
+#logo {
+    float: left;
+    font-size: 280%;
+    margin-left: 25px;
+
+}
+#menu{
+    font-size: 110%;
+    list-style-type: none;
+    letter-spacing: 4px;
+}
+#logo , #menu {
+    line-height: 80px;
+}
+#menu li {
+    float: right;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover{
+    border-bottom: 1px solid #777777;
+}
+
+.active{
+    border-bottom: 1px solid #777777;
+}
+#hero-image {
+    height: 600px;
+    width: 100$;
+    background: url("https://media.istockphoto.com/photos/bukowina-tatrzanska-village-in-the-tatra-mountains-picture-id174787525?b=1&k=20&m=174787525&s=612x612&w=0&h=UQfenmAcy1AYtJwsKfo5xIvDvSeP4Uz5OTEpRpwiYnE=") no-repeat center center;
+}
+
+
