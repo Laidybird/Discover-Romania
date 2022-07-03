@@ -47,25 +47,3 @@ h2 {
 .active{
     border-bottom: 1px solid #777777;
 }
-#hero-image {
-    height: 700px;
-    max-width: 100%;
-    background: url("https://images.pexels.com/photos/163572/iron-gate-karparten-danube-gorge-abbey-163572.jpeg?auto=compress&cs=tinysrgb&w=1600")  no-repeat center center;
-    
-
-
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
-}
-#hero-outer{
-    height:600px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-}
-.welcome {
-    text-align: center;
-    
-}
-
