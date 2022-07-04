@@ -42,9 +42,12 @@ body {
 .active{
     border-bottom: 1px solid #777777;
 }
+
 .card {
     margin-left: 30px;
-    height: 10rem;
+    border: groove;
+    border-color:white;
+    
 }  
     
 
