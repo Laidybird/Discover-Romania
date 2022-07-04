@@ -44,24 +44,28 @@ body {
 }
 .card {
     margin-left: 30px;
+    height: 10rem;
+}  
     
-    
-}footer {
-    display: block;
-  }
-  
-  .social-networks {
-    text-align: center;
-  }
-  
-  .social-networks li{
-    display: inline;
-  }
-  .social-networks i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    color: #777777;
-      
-  }
 
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #55ACEE;
+    color: white;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa-instagram {
+    background: #f09433;
+}
