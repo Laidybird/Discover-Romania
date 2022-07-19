@@ -47,28 +47,7 @@ body {
     margin-left: 30px;
     border: groove;
     border-color:white;
+    height: 200px;
     
 }  
     
-
-.fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-}
-.fa:hover {
-    opacity: 0.7;
-}
-.fa-facebook {
-    background: #55ACEE;
-    color: white;
-}
-.fa-twitter {
-    background: #55ACEE;
-    color: white;
-}
-.fa-instagram {
-    background: #f09433;
-}
