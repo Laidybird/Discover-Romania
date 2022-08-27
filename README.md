@@ -59,7 +59,7 @@ The website html code didn't show any errors, as can you see bellow:
 ![CSS-validator](https://user-images.githubusercontent.com/66474546/187041174-2ecb0bfe-cb21-4f38-99bf-dc7ef5ff087d.png)
 
 ![VALIDATOR ABOUT-P![VALIDATOR CONTACT-PAGE](https://user-images.githubusercontent.com/66474546/187041199-d86b1928-3bef-4cbf-b0d8-e90d26c829ec.png)
-AGE](https://user-images.githubusercontent.com/66474546/187041197-f9b8a4ae-25c1-426f-b1ae-d15dfc4cefef.png
+AGE](https://user-images.githubusercontent.com/66474546/187041197-f9b8a4ae-25c1-426f-b1ae-d15dfc4cefef.png)
 
 Testing: Testing after launching, testing jpg
 
