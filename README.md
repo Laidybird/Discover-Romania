@@ -2,7 +2,7 @@ Discover Romania
 
 (Developer: Veronica Preda)
 
-Discover Romania is Tourism site aim to attract pepole to visit the Country. The website was build using entierly HTML5 and CSS.
+Discover Romania is a Tourism site aim to attract pepole to visit the Country. The website was build using entierly HTML5 and CSS.
 
 Aim:
 Discover Romania aims to provide users with informations about Romania. It does this by providing clear and concise navigation throughout the site.
