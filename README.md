@@ -5,8 +5,7 @@ Discover Romania
 Discover Romania is Tourism site aim to attract pepole to visit the Country. The website was build using entierly HTML5 and CSS.
 
 Aim:
-
-Explore Romania aims to provide users with informations about Romania. It does this by providing clear and concise navigation throughout the site.
+Discover Romania aims to provide users with informations about Romania. It does this by providing clear and concise navigation throughout the site.
 
 Users are giving ideas and information about the places that they can visit as well the courency and visa requirments.
 
@@ -36,9 +35,9 @@ The choosen colors are rgb(110, 174, 204) for the headings, navbar, and footer, 
 
 Wireframe:
 
-![WirefMILESTONE1MILESTONE1
+![MILESTONE1](https://user-images.githubusercontent.com/66474546/187041042-e256afe6-7965-4b7f-8805-1843a9cc4815.png)
 
-!rame mobile abou page](https://user-images.githubusercontent.com/66474546/186718078-4b612831-23af-439f-b9af-90d97f8c4e35.png) Wireframe MOBILE
+
 
 Features:
 
