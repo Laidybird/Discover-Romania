@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/d690a38283.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <title>Discover Romania</title>
+</head>
+<body>
+    <nav class="menu">
+        <ul>
+            <li>
+                <a href="index.html">Home</a>
+            </li>
+            <li>
+                <a href="about.html">About</a>
+            </li>
+            <li>
+                <a href="contact.html">Contact</a>
+            </li>
+        </ul>
+    </nav>
+    <h2 class="contact">Book your Tour</h2>
+    <div class="container">
+        <form>
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="firstname" placeholder="Your name">
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name="lastname" placeholder="Last Name">
+            <label for="adult">Adults</label>
+            <input type="number" id="adult" name="total_adults" placeholder="2" min="1" required>
+            <br>
+            <br>
+            <label for="child">Children</label>
+            <input type="number" id="child" name="total_children" placeholder="1" min="0" required>
+            <br>
+            <br>
+            <label for="date">Tour Date</label>
+            <input type="date" id="date" name="tourdate" required>
+            <br>
+            <br>
+            <label for="region">Chose a Region</label>
+            <select id="region" name="region">
+                <option value="bucharest">Bucharest</option>
+                <option value="banat">Banat</option>
+                <option value="transilvania">Transilvania</option>
+                <option value="maramures">Maramures</option>
+                <option value="bucovina">Bucovina</option>
+            </select>
+            <label for="subject">Subject</label>
+            <textarea id="subject" name="subject" placeholder="Anything else" style="height:200px">
+            </textarea>
+            <input type="submit" value="Submit">
+        </form>
+        <br>
+    </div>
+    <br>
+    <footer>
+        <a href="https://en-gb.facebook.com/" class="fa fa-facebook"></a>
+        <a href="https://twitter.com/i/flow/login" class="fa fa-twitter"></a>
+        <a href="https://www.instagram.com/" class="fa fa-instagram"></a>
+    </footer>
+
+
+</body>
+
+</html>
